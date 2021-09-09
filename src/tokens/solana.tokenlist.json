@@ -11985,3 +11985,19 @@
     "patch": 2
   }
 }
+
+{
+      "chainId": 101,
+      "address": 4ToU3wKVXBdb2yMXUqQX4PaVGcnthnTxaH6xu6eSrNX6",
+      "symbol": "TNS",
+      "name": "Token Network Security",
+      "decimals": 9,
+      "logoURI": "https://github.com/TokenNetworkSecurity/token-list/blob/main/assets/mainnet/4ToU3wKVXBdb2yMXUqQX4PaVGcnthnTxaH6xu6eSrNX6/logo.png",
+      "tags": [Prevents fraudulent activities on the blockchain network],
+      "extensions": {
+        "website": "https://tnsecurity.org/",
+        "alert scan":"https://alert.tnsecurity.org/",
+        "twitter":"https://twitter.com/tnsecuritynet/",
+        "serumV3Usdc": "3hL4BovbibgJsToC267Y9WSFH2hjsFDBbyzzNFj53ofo",
+      }
+    },
